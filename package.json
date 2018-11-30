@@ -1,0 +1,12 @@
+{
+  "name": "@iteam/eslint-config-iteam-node",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "believer <rickard.laurin@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "5.9.0"
+  }
+}
