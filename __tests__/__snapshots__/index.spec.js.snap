@@ -3,6 +3,7 @@
 exports[`create config 1`] = `
 Object {
   "env": Object {
+    "es6": true,
     "jest": true,
     "mocha": true,
     "node": true,

@@ -4,10 +4,10 @@ module.exports = {
     ecmaVersion: '2018',
   },
   env: {
+    es6: true,
     jest: true,
     mocha: true,
     node: true,
-    es6: true,
   },
   rules: {
     'no-console': 'off',
