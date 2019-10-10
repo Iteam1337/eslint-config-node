@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create config 1`] = `
+Object {
+  "env": Object {
+    "jest": true,
+    "mocha": true,
+    "node": true,
+  },
+  "extends": Array [
+    "eslint:recommended",
+    "prettier",
+  ],
+  "parserOptions": Object {
+    "ecmaVersion": "2018",
+  },
+  "rules": Object {
+    "no-console": "off",
+    "no-unexpected-multiline": "error",
+    "no-var": "error",
+    "prefer-const": "error",
+    "semi": Array [
+      "error",
+      "never",
+    ],
+    "space-before-blocks": Array [
+      "error",
+      "always",
+    ],
+  },
+}
+`;
