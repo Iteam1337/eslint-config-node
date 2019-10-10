@@ -16,15 +16,16 @@
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": "^5.9.0",
-    "eslint-config-prettier": "^6.4.0"
+    "eslint": "^5.9.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.4",
     "@semantic-release/git": "7.0.16",
-    "eslint-config-prettier": "6.4.0",
     "jest": "24.9.0",
     "jest-watch-typeahead": "0.4.0",
     "prettier": "1.18.2"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "6.4.0"
   }
 }
