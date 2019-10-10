@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/Iteam1337/eslint-config-node/compare/v0.2.2...v0.3.0) (2019-10-10)
+
+
+### Features
+
+* add es6 support ([9eed7ea](https://github.com/Iteam1337/eslint-config-node/commit/9eed7eae9e961600063c49ae53d50c3d83f9e03f))
+
 ## [0.2.2](https://github.com/Iteam1337/eslint-config-node/compare/v0.2.1...v0.2.2) (2019-10-10)
 
 
