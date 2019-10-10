@@ -1,3 +1,10 @@
+## [0.2.2](https://github.com/Iteam1337/eslint-config-node/compare/v0.2.1...v0.2.2) (2019-10-10)
+
+
+### Bug Fixes
+
+* add eslint-config-prettier as dependency ([a314860](https://github.com/Iteam1337/eslint-config-node/commit/a3148609eebb672c41b711e2fe1726fb8b17f8cc))
+
 ## [0.2.1](https://github.com/Iteam1337/eslint-config-node/compare/v0.2.0...v0.2.1) (2019-10-10)
 
 
