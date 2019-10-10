@@ -1,10 +1,13 @@
 {
-  "name": "@iteam/eslint-config-iteam-node",
+  "name": "@iteam/eslint-config-node",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "keywords": [],
-  "author": "believer <rickard.laurin@gmail.com> (https://rlaur.in)",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "believer <rickard.laurin@gmail.com> (https://willcodefor.beer)",
   "contributors": [
     "Jimmy Jardland <jimmy.jardland@iteam.se>"
   ],
@@ -14,5 +17,11 @@
   },
   "peerDependencies": {
     "eslint": "^5.9.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "6.4.0",
+    "jest": "24.9.0",
+    "jest-watch-typeahead": "0.4.0",
+    "prettier": "1.18.2"
   }
 }

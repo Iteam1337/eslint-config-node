@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['eslint:recommended'],
+  extends: ['eslint:recommended', 'prettier'],
   parserOptions: {
     ecmaVersion: '2018',
   },
@@ -10,11 +10,10 @@ module.exports = {
   },
   rules: {
     'no-console': 'off',
-    'no-var': 'error',
     'no-unexpected-multiline': 'error',
+    'no-var': 'error',
     'prefer-const': 'error',
-    semi: ['error', 'never'],
     'space-before-blocks': ['error', 'always'],
-    'space-before-function-paren': ['error', 'always'],
+    semi: ['error', 'never'],
   },
 }
