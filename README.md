@@ -2,7 +2,7 @@
 
 Contains our preferred defaults for Node development
 
-### Installation
+## Installation
 
 ```
 npm install --save-dev @iteam/eslint-config-node
