@@ -5,7 +5,8 @@
   "main": "index.js",
   "keywords": [],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint -c index.js"
   },
   "author": "believer <rickard.laurin@gmail.com> (https://willcodefor.beer)",
   "contributors": [
@@ -22,6 +23,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.0",
     "@semantic-release/git": "^10.0.0",
+    "eslint": "^8.1.0",
     "jest": "^27.3.1",
     "jest-watch-typeahead": "1.0.0",
     "prettier": "2.4.1"
