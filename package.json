@@ -5,27 +5,30 @@
   "main": "index.js",
   "keywords": [],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint -c index.js"
   },
   "author": "believer <rickard.laurin@gmail.com> (https://willcodefor.beer)",
   "contributors": [
-    "Jimmy Jardland <jimmy.jardland@iteam.se>"
+    "Jimmy Jardland <jimmy.jardland@iteam.se>",
+    "Emil Ahlbäck <emil.ahlback@iteam.se>"
   ],
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": "^5.9.0"
+    "eslint": "^8.1.0"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "3.0.4",
-    "@semantic-release/git": "7.0.16",
-    "jest": "24.9.0",
-    "jest-watch-typeahead": "0.4.0",
-    "prettier": "1.18.2"
+    "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/git": "^10.0.0",
+    "eslint": "^8.1.0",
+    "jest": "^27.3.1",
+    "jest-watch-typeahead": "1.0.0",
+    "prettier": "2.4.1"
   },
   "dependencies": {
-    "eslint-config-prettier": "6.4.0"
+    "eslint-config-prettier": "^8.0.0"
   }
 }
