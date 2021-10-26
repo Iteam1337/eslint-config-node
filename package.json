@@ -26,6 +26,6 @@
     "prettier": "1.18.2"
   },
   "dependencies": {
-    "eslint-config-prettier": "6.4.0"
+    "eslint-config-prettier": "^8.0.0"
   }
 }
