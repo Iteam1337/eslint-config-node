@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/Iteam1337/eslint-config-node/compare/v0.3.0...v0.4.0) (2021-10-26)
+
+
+### Features
+
+* package-lock.json v2 ([8fcda93](https://github.com/Iteam1337/eslint-config-node/commit/8fcda9322a99f03b24b3be62895f1926537dee23))
+* Update dependency on eslint-config-prettier ([1900fd0](https://github.com/Iteam1337/eslint-config-node/commit/1900fd03a1da16a3b64b00c81124a82d0d29cd25))
+* Update peer dep of eslint to ^8.4.0 ([128b1a7](https://github.com/Iteam1337/eslint-config-node/commit/128b1a7e38861edfd0d4092f4212a89ae286b858))
+
 # [0.3.0](https://github.com/Iteam1337/eslint-config-node/compare/v0.2.2...v0.3.0) (2019-10-10)
 
 
