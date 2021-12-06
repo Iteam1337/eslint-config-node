@@ -11,7 +11,8 @@
   "author": "believer <rickard.laurin@gmail.com> (https://willcodefor.beer)",
   "contributors": [
     "Jimmy Jardland <jimmy.jardland@iteam.se>",
-    "Emil Ahlbäck <emil.ahlback@iteam.se>"
+    "Emil Ahlbäck <emil.ahlback@iteam.se>",
+    "Anders Ytterström <anders.ytterstrom@iteam.se>"
   ],
   "license": "MIT",
   "publishConfig": {
